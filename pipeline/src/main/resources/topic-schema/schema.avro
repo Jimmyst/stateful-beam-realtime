@@ -1,0 +1,29 @@
+{
+  "type": "record",
+  "name": "transaction",
+  "fields": [
+    {
+      "name": "uid",
+      "type": "string"
+    },
+    {
+      "name": "item",
+      "type": "string"
+    },
+    {
+      "name": "price",
+      "type": "double"
+    },
+    {
+      "name": "transaction_id",
+      "type": "string"
+    },
+    {
+      "name": "transaction_ts",
+      "type": {
+        "type": "long",
+        "logicalType": "timestamp-millis"
+      }
+    }
+  ]
+}
