@@ -1,0 +1,11 @@
+E:\personal\stateful-beam-realtime\pipeline\src\main\java\org\stjimmy\options\LtvPipelineSqlLookupOptions.java
+E:\personal\stateful-beam-realtime\pipeline\src\main\java\org\stjimmy\connector\MySqlConnection.java
+E:\personal\stateful-beam-realtime\pipeline\src\main\java\org\stjimmy\beam\LtvPipeline.java
+E:\personal\stateful-beam-realtime\pipeline\src\main\java\org\stjimmy\parser\UserTransactionParser.java
+E:\personal\stateful-beam-realtime\pipeline\src\main\java\org\stjimmy\connector\MySqlConnectionSingleton.java
+E:\personal\stateful-beam-realtime\pipeline\src\main\java\org\stjimmy\parser\RowParserHelper.java
+E:\personal\stateful-beam-realtime\pipeline\src\main\java\org\stjimmy\options\LtvPipelineOptions.java
+E:\personal\stateful-beam-realtime\pipeline\src\main\java\org\stjimmy\model\UserState.java
+E:\personal\stateful-beam-realtime\pipeline\src\main\java\org\stjimmy\model\UserTransaction.java
+E:\personal\stateful-beam-realtime\pipeline\src\main\java\org\stjimmy\beam\LtvPipelineSqlLookup.java
+E:\personal\stateful-beam-realtime\pipeline\src\main\java\org\stjimmy\options\CloudSqlOptions.java

@@ -1,0 +1,16 @@
+org\stjimmy\beam\LtvPipeline.class
+org\stjimmy\parser\UserTransactionParser.class
+org\stjimmy\beam\LtvPipelineSqlLookup$1.class
+org\stjimmy\parser\RowParserHelper.class
+org\stjimmy\beam\LtvPipeline$2.class
+org\stjimmy\model\UserTransaction.class
+org\stjimmy\options\LtvPipelineOptions.class
+org\stjimmy\beam\LtvPipelineSqlLookup$2.class
+org\stjimmy\beam\LtvPipeline$1.class
+org\stjimmy\model\UserState.class
+org\stjimmy\beam\LtvPipeline$3.class
+org\stjimmy\beam\LtvPipeline$4.class
+org\stjimmy\options\CloudSqlOptions.class
+org\stjimmy\beam\LtvPipelineSqlLookup$3.class
+org\stjimmy\options\LtvPipelineSqlLookupOptions.class
+org\stjimmy\connector\MySqlConnection.class
